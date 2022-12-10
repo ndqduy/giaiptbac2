@@ -8,7 +8,7 @@ st.title("GIAI PHUONG TRINH BAC 2")
 
 # Introduction
 
-st.subheader("Introduction")
+st.subheader("Duy đẹp trai")
 
 st.text("""
 PT BAC 1: A = 0
